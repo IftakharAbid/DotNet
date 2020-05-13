@@ -1,0 +1,9 @@
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\obj\Debug\ChatApp.ChatBox.resources
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\Sharif\Desktop\c# test\ChatApp\ChatApp\obj\Debug\ChatApp.pdb

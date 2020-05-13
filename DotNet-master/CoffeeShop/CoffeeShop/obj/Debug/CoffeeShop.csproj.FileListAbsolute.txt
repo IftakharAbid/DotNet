@@ -1,0 +1,12 @@
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.CoffeeHouse.resources
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Login.resources
+C:\Users\Sharif\Desktop\c# test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.UpdatePrice.resources

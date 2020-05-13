@@ -1,0 +1,15 @@
+C:\Users\Sharif\Desktop\c# test\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Sharif\Desktop\c# test\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\Sharif\Desktop\c# test\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.csprojAssemblyReference.cache
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.AdminHome.resources
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.UserHome.resources
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.Users.resources
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.LoginForm.resources
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.Categories.resources
+C:\Users\Sharif\Desktop\c# test\BillingSystem\obj\Debug\BillingSystem.Products.resources

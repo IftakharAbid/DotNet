@@ -1,0 +1,17 @@
+C:\Users\Sharif\Desktop\c# test\OnlineExam\bin\Debug\OnlineExam.exe.config
+C:\Users\Sharif\Desktop\c# test\OnlineExam\bin\Debug\OnlineExam.exe
+C:\Users\Sharif\Desktop\c# test\OnlineExam\bin\Debug\OnlineExam.pdb
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.csprojAssemblyReference.cache
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Calculator.resources
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Help.resources
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Home.resources
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Properties.Resources.resources
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Question2.resources
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Question3.resources
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Qustion1.resources
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Result.resources
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.csproj.GenerateResource.cache
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.csproj.CoreCompileInputs.cache
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.exe
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.pdb
+C:\Users\Sharif\Desktop\c# test\OnlineExam\obj\Debug\OnlineExam.Form1.resources
